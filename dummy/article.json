@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Gempa Bumi Magnitudo 6,9 Guncang Wilayah Jakarta, Korban Jiwa Terus Bertambah",
+    "content": "Gempa bumi berkekuatan 6,9 magnitudo mengguncang wilayah Jakarta pada pagi hari tadi. Pusat gempa terletak di kedalaman 10 kilometer dan berdampak luas. Sampai saat ini, korban jiwa terus bertambah dengan ribuan orang terluka dan sejumlah bangunan hancur.",
+    "imgUrl": "https://images.pexels.com/photos/14000727/pexels-photo-14000727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "title": "Banjir Bandang Melanda Kota Lampung, Ribuan Warga Mengungsi",
+    "content": "Hujan deras yang terus menerus selama dua hari terakhir menyebabkan banjir bandang di Kota Lampung. Ribuan warga terpaksa mengungsi ke tempat yang lebih tinggi karena air sungai meluap dan merendam permukiman. Tim penyelamat dikerahkan untuk memberikan bantuan dan evakuasi warga yang terjebak",
+    "imgUrl": "https://images.pexels.com/photos/6471947/pexels-photo-6471947.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "categoryId": 5,
+    "authorId": 2
+  },
+  {
+    "title": "Longsor di Daerah Z Timbulkan Kerugian Ekonomi Miliaran Rupiah",
+    "content": "Tanah longsor yang terjadi di daerah Z mengakibatkan kerugian ekonomi mencapai miliaran rupiah. Lebih dari 50 hektar lahan pertanian rusak dan jalan raya utama terputus akibat longsoran tersebut. Pemerintah daerah sedang melakukan upaya pemulihan dan membantu para petani yang terdampak",
+    "imgUrl": "https://i0.wp.com/eos.org/wp-content/uploads/2018/08/landslide-debris-flow-natural-disaster-simulation-mocoa-freetown-main.jpg?fit=820%2C615&ssl=1",
+    "categoryId": 5,
+    "authorId": 4
+  },
+  {
+    "title": "Topan Kategori 4 Melanda Pulau A, Ribuan Rumah Hancur",
+    "content": "Topan kategori 4 menerjang Pulau A dengan kecepatan angin mencapai 250 kilometer per jam. Ribuan rumah hancur dan listrik padam di sebagian besar wilayah. Tim bantuan darurat dan relawan dikerahkan untuk membantu evakuasi dan memberikan bantuan kepada korban bencana.",
+    "imgUrl": "https://media.wired.com/photos/6340bf572c2c7a7522a9859c/master/w_2560%2Cc_limit/GiveDirectly-Google-Storm-Damage-Mapping-Hurricane-Ian-Business-1428812529.jpg",
+    "categoryId": 5,
+    "authorId": 1
+  },
+  {
+    "title": "Kebakaran Hutan di Wilayah B Mengancam Ekosistem dan Kualitas Udara",
+    "content": "Kebakaran hutan yang melanda wilayah B telah mengancam ekosistem serta kualitas udara di sekitarnya. Luas area terbakar mencapai ribuan hektar dan kabut asap tebal menyelimuti wilayah tersebut. Pihak berwenang sedang berusaha keras untuk memadamkan api dan melindungi wilayah yang terancam.",
+    "imgUrl": "https://insideclimatenews.org/wp-content/uploads/2023/03/wildfire_thibaud-mortiz-afp-getty-scaled.jpg",
+    "categoryId": 5,
+    "authorId": 6
+  },
+  {
+    "title": "Aktor Terkenal X Mengumumkan Pernikahan dengan Model Y",
+    "content": "Aktor terkenal X mengumumkan kabar bahagia bahwa ia akan menikah dengan model terkenal Y. Pasangan ini telah menjalin hubungan selama beberapa tahun dan rencananya akan menggelar pernikahan besar-besaran pada bulan depan.",
+    "imgUrl": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/shutterstock_284165645.jpg?itok=bKbE0HiF",
+    "authorId": 6,
+    "categoryId": 4
+  },
+  {
+    "title": "Penyanyi Populer Z Luncurkan Album Baru dan Mendominasi Tangga Lagu",
+    "content": "Penyanyi populer Z merilis album terbaru yang langsung mendominasi tangga lagu. Album tersebut mendapatkan respon positif dari penggemar dan kritikus musik, serta berhasil menduduki posisi puncak di berbagai platform musik streaming.",
+    "imgUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/E84C/production/_128286495_e6bee2b51bfe8d37d9bb1a27b0600745b67a3a19.jpg",
+    "authorId": 5,
+    "categoryId": 4
+  },
+  {
+    "title": "Aktor A Menang Penghargaan Bergengsi untuk Peran Hebatnya dalam Film B",
+    "content": "Aktor A memenangkan penghargaan bergengsi dalam acara penghargaan film terkenal untuk peran briliannya dalam film B. Penampilan aktingnya yang luar biasa dan dedikasinya terhadap perannya membuatnya diakui oleh industri film.",
+    "imgUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pbs.org%2Fnewshour%2Farts%2F18-year-old-singer-billie-eilish-sweeps-the-grammy-awards&psig=AOvVaw3jcTPnKWevD8AaFNBWM9pG&ust=1684480366437000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiBmcGo_v4CFQAAAAAdAAAAABAE",
+    "authorId": 2,
+    "categoryId": 4
+  },
+  {
+    "title": "Aktris C Berbagi Kisah Inspiratifnya dalam Buku Otobiografi Baru",
+    "content": "Aktris C merilis buku otobiografi baru yang menceritakan kisah hidupnya, tantangan yang dihadapinya, serta pengalaman yang menginspirasi. Buku tersebut mendapat perhatian luas dan menjadi sumber inspirasi bagi banyak pembaca.",
+    "imgUrl": "https://c8.alamy.com/comp/RBH4NH/book-writer-wearing-white-shirt-sitting-at-the-his-workplace-and-typing-his-new-book-RBH4NH.jpg",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "title": "Pasangan Selebriti D dan E Umumkan Kehamilan Pertama Mereka",
+    "content": " Pasangan selebriti D dan E mengumumkan kabar bahagia bahwa mereka sedang mengandung anak pertama. Pengumuman ini disambut dengan kegembiraan oleh penggemar dan rekan selebriti mereka, serta diharapkan menjadi awal dari babak baru dalam kehidupan mereka.",
+    "imgUrl": "https://s3.theasianparent.com/tap-assets-prod/wp-content/uploads/sites/12/2022/02/celebrities-who-are-pregnant-now-6.png",
+    "authorId": 4,
+    "categoryId": 4
+  },
+  {
+    "title": "Tim A Juara Piala Dunia Setelah Mengalahkan Tim B dalam Final yang Sengit",
+    "content": "Tim A keluar sebagai juara Piala Dunia setelah mengalahkan Tim B dalam pertandingan final yang sengit. Pertandingan berlangsung di stadion terkenal dan dihadiri oleh ribuan penonton yang antusias. Tim A mencetak gol kemenangan pada menit akhir pertandingan, memastikan gelar juara dunia mereka.",
+    "imgUrl": "https://frontofficesports.com/wp-content/uploads/2022/11/FOS-22-11.21-World-Cup-Earners-Mbappe.jpg",
+    "authorId": 6,
+    "categoryId": 3
+  },
+  {
+    "title": "Atlet X Pecahkan Rekor Dunia dalam Lari 100 Meter",
+    "content": "Atlet X mencatatkan prestasi gemilang dengan memecahkan rekor dunia dalam lomba lari 100 meter. Ia berhasil mengalahkan waktu tercepat sebelumnya dan mencatatkan waktu baru yang mengejutkan para pengamat olahraga.",
+    "imgUrl": "https://media.istockphoto.com/id/1187793727/photo/champion-athlete-wins-sprint-race-competition-in-indoor-track-event.jpg?s=170667a&w=0&k=20&c=kPfUDJhbKCxjUCDiK-oUUuFlx0DaFiyXzaHb4Nw7Y8M=",
+    "authorId": 3,
+    "categoryId": 3
+  },
+  {
+    "title": "Tim Y Raih Gelar Juara Liga Champions setelah Mengalahkan Tim Z di Final",
+    "content": "Tim Y berhasil meraih gelar juara Liga Champions setelah mengalahkan Tim Z dalam pertandingan final yang seru. Pertandingan berlangsung di stadion megah dan berakhir dengan skor akhir yang mengantarkan Tim Y menjadi juara Eropa.",
+    "imgUrl": "https://akcdn.detik.net.id/community/media/visual/2023/05/18/liga-champions-1_169.jpeg?w=700&q=90",
+    "authorId": 5,
+    "categoryId": 3
+  },
+  {
+    "title": "Petenis Cetak Sejarah dengan Menjuarai Turnamen Grand Slam",
+    "content": "Seorang petenis mencetak sejarah dengan meraih gelar juara dalam turnamen Grand Slam terkemuka. Ia menjadi pemain pertama dari negaranya yang berhasil meraih prestasi tersebut dan menarik perhatian publik serta penggemar tenis di seluruh dunia.",
+    "imgUrl": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/09/25/16640851141907.jpg",
+    "authorId": 3,
+    "categoryId": 3
+  },
+  {
+    "title": "Tim Nasional X Lolos ke Piala Eropa setelah Kemenangan Dramatis di Babak Kualifikasi",
+    "content": "Tim Nasional X berhasil lolos ke Piala Eropa setelah meraih kemenangan dramatis dalam pertandingan kualifikasi terakhir. Pertandingan yang penuh tensi tersebut berakhir dengan skor akhir yang memastikan tim tersebut menjadi salah satu peserta utama dalam turnamen sepak bola Eropa yang prestisius.",
+    "imgUrl": "https://phantom-marca.unidadeditorial.es/03ad4127b7d862257b9050e787097058/resize/1320/f/jpg/assets/multimedia/imagenes/2021/04/19/16187863915369.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "title": "Perusahaan A Rilis Smartphone Terbaru dengan Fitur Inovatif",
+    "content": "Perusahaan A telah meluncurkan smartphone terbaru mereka yang dilengkapi dengan fitur-fitur inovatif. Smartphone ini memiliki teknologi terkini seperti pemindai sidik jari di dalam layar, kamera yang ditingkatkan, dan dukungan konektivitas 5G.",
+    "imgUrl": "https://images.news18.com/ibnlive/uploads/2022/06/letv-y1-pro-launch.jpg",
+    "authorId": 6,
+    "categoryId": 2
+  },
+  {
+    "title": "Teknologi Bertenaga Surya Semakin Populer, Penjualan Panel Surya Meningkat",
+    "content": "Penggunaan teknologi bertenaga surya semakin populer, terutama dalam penghasilan listrik rumah tangga. Penjualan panel surya meningkat secara signifikan, didorong oleh kesadaran masyarakat tentang energi terbarukan dan keuntungan jangka panjang dalam penghematan energi.",
+    "imgUrl": "https://jogjaasik.com/wp-content/uploads/2022/02/Rekomendasi-Toko-dan-Jasa-Pasang-Solar-Panel-di-Jogja.jpg",
+    "authorId": 3,
+    "categoryId": 2
+  },
+  {
+    "title": "Startup C Sukses Mengembangkan Aplikasi Pintar untuk Meningkatkan Efisiensi Transportasi",
+    "content": "Startup C telah berhasil mengembangkan aplikasi pintar yang membantu meningkatkan efisiensi transportasi di kota-kota besar. Aplikasi tersebut memanfaatkan algoritma cerdas untuk mengoptimalkan rute perjalanan, mengurangi kemacetan, dan memberikan solusi transportasi yang lebih baik kepada pengguna",
+    "imgUrl": "https://www.smartme.co.id/wp-content/uploads/2021/03/Smart-CRM-Laptop-1024x613.png",
+    "authorId": 4,
+    "categoryId": 2
+  },
+  {
+    "title": "Riset Terbaru Mengungkap Potensi Penggunaan Teknologi Blockchain dalam Industri Keuangan",
+    "content": "Riset terbaru mengungkapkan potensi penggunaan teknologi blockchain dalam industri keuangan. Teknologi ini dapat meningkatkan transparansi, keamanan, dan efisiensi dalam proses transaksi keuangan, serta mengurangi biaya yang terkait dengan perantara tradisional.",
+    "imgUrl": "https://beritakotakendari.fajar.co.id/wp-content/uploads/2022/05/Block-Chain.jpg",
+    "authorId": 6,
+    "categoryId": 2
+  },
+  {
+    "title": "Perkembangan Teknologi Kecerdasan Buatan (AI) dalam Bidang Kesehatan",
+    "content": "Teknologi kecerdasan buatan (AI) terus mengalami perkembangan signifikan dalam bidang kesehatan. Dalam berita ini, dilaporkan bagaimana AI digunakan untuk mendiagnosis penyakit secara akurat, membantu pengembangan obat baru, dan meningkatkan perawatan pasien melalui sistem kesehatan yang cerdas.",
+    "imgUrl": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/09/07/1580243466_972_cina-bude-vlad-20210907083136.jpg",
+    "authorId": 4,
+    "categoryId": 2
+  },
+  {
+    "title": "Prakiraan Cuaca: Suhu Tinggi dan Cerah Selama Akhir Pekan",
+    "content": "Prakiraan cuaca menunjukkan bahwa selama akhir pekan ini, suhu akan tinggi dan cuaca akan cerah di sebagian besar wilayah. Suhu dapat mencapai 32 derajat Celsius dengan sedikit kemungkinan hujan.",
+    "imgUrl": "https://images.ctfassets.net/cxgxgstp8r5d/entry-cm_547-image/f4cd54c717305dd092de693350602106/entry-cm_547-image.jpg",
+    "authorId": 2,
+    "categoryId": 1
+  },
+  {
+    "title": "Peringatan Badai: Wilayah X Berpotensi Terkena Badai Tropis",
+    "content": "Badan Meteorologi mengeluarkan peringatan badai untuk wilayah X. Terdapat potensi badai tropis yang akan mempengaruhi wilayah tersebut dalam 48 jam ke depan. Warga diharapkan waspada terhadap potensi hujan lebat, angin kencang, dan banjir.",
+    "imgUrl": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2021/09/1024/512/alerts.png?ve=1&tl=1",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "title": "Cuaca Ekstrem: Wilayah Y Dilanda Badai Salju dan Suhu Ekstrem",
+    "content": "Wilayah Y dilanda cuaca ekstrem dengan badai salju yang melanda daerah tersebut. Suhu mencapai minus 15 derajat Celsius dan diprediksi akan terus turun. Warga diimbau untuk mengambil langkah-langkah pencegahan dan menjaga kesehatan saat menghadapi suhu rendah yang berbahaya.",
+    "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Blizzard3_-_NOAA.jpg",
+    "authorId": 4,
+    "categoryId": 1
+  },
+  {
+    "title": "Hujan Deras Mengakibatkan Banjir di Beberapa Kota di Wilayah Z",
+    "content": "Hujan deras yang terjadi selama beberapa hari terakhir mengakibatkan banjir di beberapa kota di wilayah Z. Jalan-jalan tergenang air dan sejumlah rumah terendam. Pemerintah setempat telah mengirim tim evakuasi dan memberikan bantuan kepada warga terdampak.",
+    "imgUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/1E09/production/_125798670_gettyimages-1241718315-594x594.jpg",
+    "authorId": 6,
+    "categoryId": 1
+  },
+  {
+    "title": "Prakiraan Cuaca Musim Panas: Suhu Tinggi dan Kemungkinan Hujan Ringan",
+    "content": " Prakiraan cuaca musim panas menunjukkan suhu yang tinggi dengan kemungkinan hujan ringan di beberapa wilayah. Suhu dapat mencapai 35 derajat Celsius dengan beberapa hujan singkat pada sore atau malam hari. Warga diingatkan untuk tetap terhidrasi dan menjaga kesehatan selama cuaca panas.",
+    "imgUrl": "https://i1.wp.com/media.globalnews.ca/videostatic/news/vjzhz8wf0i-zgyqzrgn9o/MON_SUMMER_FORECAST_SITE_THUMB_200622.jpg?w=1040&quality=70&strip=all",
+    "authorId": 4,
+    "categoryId": 1
+  }
+]
